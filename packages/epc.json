@@ -1,0 +1,10 @@
+{ 
+"hpath" : "$EPC",
+"enable": false,
+
+"env" : 
+[
+    {"EPC" : "C:/School/EPC2023"}
+]
+
+}
