@@ -1,10 +1,9 @@
 { 
 "hpath" : "$EPC",
-"enable": false,
 
 "env" : 
 [
-    {"EPC" : "C:/School/EPC2023"}
+    {"EPC" : "C:/School/EPC2023/Houdini-EPC-2023-Workshop/"}
 ]
 
 }
